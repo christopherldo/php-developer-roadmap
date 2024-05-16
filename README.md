@@ -8,7 +8,7 @@ The repository is created when working on the following YouTube video ~~[PHP Dev
 
 ## Table of Contents
 
-1. ~~**[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**~~
+1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**
 2. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**
 3. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 4. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
@@ -34,7 +34,7 @@ The repository is created when working on the following YouTube video ~~[PHP Dev
 ### How Internet & Websites works
 | Resource Name                             |Duration| Resource                                                |
 |-------------------------------------------|--------|---------------------------------------------------------|
-| How does the INTERNET work?               | 9m     | https://youtu.be/x3c1ih2NJEg                            |
+| How does the INTERNET work?               | 9m     | ~~https://youtu.be/x3c1ih2NJEg~~                            |
 | How The Web Works - The Big Picture       | 12m    | https://youtu.be/hJHvdBlSxug                            |
 | How does the internet work? (Full Course) | 1h 42m | https://youtu.be/zN8YNNHcaZc                            |
 
