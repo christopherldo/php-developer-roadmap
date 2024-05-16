@@ -1,6 +1,6 @@
 # PHP Developer roadmap
 This is PHP Developer Roadmap. Following this path will guarantee to become a good PHP Developer.
-The repository is created when working on the following YouTube video [PHP Developer roadmap - How to Become a PHP Developer in 2021](https://youtu.be/r9ndOH0tyfA).
+The repository is created when working on the following YouTube video ~~[PHP Developer roadmap - How to Become a PHP Developer in 2021](https://youtu.be/r9ndOH0tyfA)~~.
 
 **Really appreciate if you like and share the video and if you find my content useful click on**
 
@@ -8,7 +8,7 @@ The repository is created when working on the following YouTube video [PHP Devel
 
 ## Table of Contents
 
-1. **[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**
+1. ~~**[How Internet & Websites works](https://github.com/thecodeholic/php-developer-roadmap#how-internet--websites-works)**~~
 2. **[Browser/Server request flow, HTTP Protocol, Status codes](https://github.com/thecodeholic/php-developer-roadmap#browserserver-request-flow-http-protocol-status-codes)**
 3. **[Basics of HTML/CSS](https://github.com/thecodeholic/php-developer-roadmap#basics-of-htmlcss)**
 4. **[Basics of Javascript](https://github.com/thecodeholic/php-developer-roadmap#basics-of-javascript)**
